@@ -1,0 +1,116 @@
+Variable Name,Type,Label,Option Values
+RespID,Numeric,Respondent ID,
+CountryID,Numeric,Country Code,1=Afghanistan; 2=Albania; 3=Algeria; 4=Andorra; 5=Angola; 6=Antigua and Barbuda; 7=Argentina; 8=Armenia; 9=Australia; 10=Austria; 11=Azerbaijan; 12=Bahamas; 13=Bahrain; 14=Bangladesh; 15=Barbados; 16=Belarus; 17=Belgium; 18=Belize; 19=Benin; 20=Bhutan; 21=Bolivia; 22=Bosnia and Herzegovina; 23=Botswana; 24=Brazil; 25=Brunei; 26=Bulgaria; 27=Burkina Faso; 28=Burundi; 29=Cabo Verde; 30=Cambodia; 31=Cameroon; 32=Canada; 33=Central African Republic (CAR); 34=Chad; 35=Chile; 36=China; 37=Colombia; 38=Comoros; 39=Democratic Republic of the Congo; 40=Republic of the Congo; 41=Costa Rica; 42=Cote d'Ivoire; 43=Croatia; 44=Cuba; 45=Cyprus; 46=Czech Republic; 47=Denmark; 48=Djibouti; 49=Dominica; 50=Dominican Republic; 51=Ecuador; 52=Egypt; 53=El Salvador; 54=Equatorial Guinea; 55=Eritrea; 56=Estonia; 57=Eswatini (formerly Swaziland); 58=Ethiopia; 59=Fiji; 60=Finland; 61=France; 62=Gabon; 63=Gambia; 64=Georgia; 65=Germany; 66=Ghana; 67=Greece; 68=Grenada; 69=Guatemala; 70=Guinea; 71=Guinea-Bissau; 72=Guyana; 73=Haiti; 74=Hong Kong; 75=Hungary; 76=Iceland; 77=India; 78=Indonesia; 79=Iran; 80=Iraq; 81=Ireland; 82=Israel; 83=Italy; 84=Jamaica; 85=Japan; 86=Jordan; 87=Kazakhstan; 88=Kenya; 89=Kiribati; 90=Kosovo; 91=Kuwait; 92=Kyrgyzstan; 93=Laos; 94=Latvia; 95=Lebanon; 96=Lesotho; 97=Liberia; 98=Libya; 99=Liechtenstein; 100=Lithuania; 101=Luxembourg; 102=North Macedonia; 103=Madagascar; 104=Malawi; 105=Malaysia; 106=Maldives; 107=Mali; 108=Malta; 109=Marshall Islands; 110=Mauritania; 111=Mauritius; 112=Mexico; 113=Micronesia; 114=Moldova; 115=Monaco; 116=Mongolia; 117=Montenegro; 118=Morocco; 119=Mozambique; 120=Myanmar (formerly Burma); 121=Namibia; 122=Nauru; 123=Nepal; 124=Netherlands; 125=New Zealand; 126=Nicaragua; 127=Niger; 128=Nigeria; 129=North Korea; 130=Norway; 131=Oman; 132=Pakistan; 133=Palau; 134=Palestine; 135=Panama; 136=Papua New Guinea; 137=Paraguay; 138=Peru; 139=Philippines; 140=Poland; 141=Portugal; 142=Qatar; 143=Romania; 144=Russia; 145=Rwanda; 146=Saint Kitts and Nevis; 147=Saint Lucia; 148=Saint Vincent and the Grenadines; 149=Samoa; 150=San Marino; 151=Sao Tome and Principe; 152=Saudi Arabia; 153=Senegal; 154=Serbia; 155=Seychelles; 156=Sierra Leone; 157=Singapore; 158=Slovakia; 159=Slovenia; 160=Solomon Islands; 161=Somalia; 162=South Africa; 163=South Korea; 164=South Sudan; 165=Spain; 166=Sri Lanka; 167=Sudan; 168=Suriname; 169=Eswatini; 170=Sweden; 171=Switzerland; 172=Syria; 173=Taiwan; 174=Tajikistan; 175=Tanzania; 176=Thailand; 177=Timor-Leste; 178=Togo; 179=Tonga; 180=Trinidad and Tobago; 181=Tunisia; 182=Turkey; 183=Turkmenistan; 184=Tuvalu; 185=Uganda; 186=Ukraine; 187=United Arab Emirates (UAE); 188=United Kingdom (UK); 189=United States of America (USA); 190=Uruguay; 191=Uzbekistan; 192=Vanuatu; 193=Vatican City (Holy See); 194=Venezuela; 195=Vietnam; 196=Yemen; 197=Zambia; 198=Zimbabwe; 199=Republic of Korea; 200=Honduras
+Q1,Numeric,"1. Have you heard about a war in the Middle East between the USA, Israel, and Iran these days?",1=Yes; 2=No; 9=No response
+Q2,Numeric,"2. In this war, which side do you support?",1=USA-Israel coalition; 2=Iran; 3=Neither of them; 9=Don't know / No response
+Q3_1,Numeric,"3. If this war continues, do you expect personal harm physically, financially or emotionally to yourself? - Physical harm",1=Strong harm expected; 2=Minor harm; 3=No harm; 9=Don't know / No response
+Q3_2,Numeric,"3. If this war continues, do you expect personal harm physically, financially or emotionally to yourself? - Financial harm",1=Strong harm expected; 2=Minor harm; 3=No harm; 9=Don't know / No response
+Q3_3,Numeric,"3. If this war continues, do you expect personal harm physically, financially or emotionally to yourself? - Emotional harm",1=Strong harm expected; 2=Minor harm; 3=No harm; 9=Don't know / No response
+Q4,Numeric,4. Who do you think will win this war?,1=USA-Israel coalition; 2=Iran; 3=Neither of them; 9=Don't know / No response
+Q5,Numeric,5. Who do you think is most responsible for starting this war?,1=USA; 2=Israel; 3=USA and Israel are equally responsible; 4=Iran; 9=Don't know / No response
+Q6,Numeric,"6. What is your assessment of the assassination of Iran's top leader, Ayatollah Ali Khamenei?",1=Agree; 2=Disagree; 3=Neither agree nor disagree; 9=Don't know / No response
+Q7,Numeric,"7. Are you on the whole, satisfied or dissatisfied with the policy of your government on this war?",1=Satisfied; 2=Dissatisfied; 3=Neither satisfied nor dissatisfied; 9=Don't know / No response
+Q8_1,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - United Nations",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q8_2,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - European Union",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q8_3,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - United Kingdom",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q8_4,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - France",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q8_5,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - Russia",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q8_6,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - China",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q8_7,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - Turkey",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q8_8,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - Arab Countries",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q8_9,Numeric,"8. Are you on the whole, satisfied or dissatisfied with the policy and actions of the following on this war? - Spain",1=Satisfied; 2=Dissatisfied; 9=Don't know / No response
+Q9,Numeric,9. Do you think that USA and Israel will succeed or fail in overthrowing the current government of Iran and replacing it by a government of their own choice?,1=Succeed in replacing; 2=Fail; 9=Don't know / No response
+Q10_1,Numeric,10. What do you think the outcome of this war will be? - Iran will be a stable and peaceful country OR Iran will be marked by chaos and internal strife,1=Iran will be a stable and peaceful country; 2=Iran will be marked by chaos and internal strife; 9=Don't know / No response
+Q10_2,Numeric,10. What do you think the outcome of this war will be? - The Middle East will be a safe and stable region OR The Middle East will be an unsafe and unstable region,1=The Middle East will be a safe and stable region; 2=The Middle East will be an unsafe and unstable region; 9=Don't know / No response
+Q10_3,Numeric,10. What do you think the outcome of this war will be? - Israel will be safe from external attacks OR Israel will continue to be affected by external attacks,1=Israel will be safe from external attacks; 2=Israel will continue to be affected by external attacks; 9=Don't know / No response
+Q11,Numeric,11. Do you expect the current war will be a long war for many months or will it end soon within weeks?,1=Long war over months; 2=End soon within weeks; 9=Don't know / No response
+Q12,Numeric,12 Do you think your country should support USA militarily in the war with Iran?,1=Yes; 2=No; 9=Don't know
+Q13,Numeric,13. Do you think EU should support USA militarily in the war with Iran?,1=Yes; 2=No; 9=Don't know
+Q14,Numeric,14. Do you think this war will increase the risk for terrorism attacks in your country?,1=Yes; 2=No; 9=Don't know
+D1,Numeric,D1. Gender,1=Male; 2=Female; 3=Other
+D2A,Numeric,D2a. Year of birth,9=Refusal
+D2B,Numeric,D2b. Age Group,1=Under 18; 2=18 – 24; 3=25 – 34; 4=35 – 44; 5=45 – 54; 6=55 – 64; 7=65+; 9=REF/DK
+D3,Numeric,D3. Income,1=Low  (Bottom quintile/20%); 2=Medium low (Second quintile/20%); 3=Medium (Third quintile/20%); 4=Medium high (Fourth quintile/20%); 5=High (Top quintile/20%); 9=Refused/Don’t know/no answer
+D4,Numeric,D4. Education: Highest attained,"1=No education/only basic education; 2=Completed primary; 3=Completed secondary school; 4=Completed High level education (University); 5=Completed Higher level of education (Masters, PHD, etc.); 6=Vocational Education; 9=Refused/Don’t know/no answer"
+D5,Numeric,D5. Employment,1=Working full (include self-employed); 2=Working Part-time; 3=Unemployed; 4=Student; 5=Housewife; 6=Retired/Disabled; 7=Others; 9=Refused/DNK/DNA
+D6,Numeric,D6. Do you consider yourself,1=Roman Catholic; 2=Russian or Eastern Orthodox; 3=Protestant; 4=Other Christian; 5=Hindu; 6=Muslim; 7=Jewish; 8=Buddhist; 9=Other; 10=Atheist/agnostic; 99=Refused/DNK/DNA
+Pholder,Numeric,Blank,
+WGT,Numeric,Weighting factor,
+nCountry_String,String,,
+Country_code,Numeric,Country Code ,"1=United States; 2=Canada; 3=Brazil; 4=Argentina; 5=Bolivia; 6=Chile; 7=Colombia; 8=Ecuador; 9=Guyana; 10=Paraguay; 11=Peru; 12=Suriname; 13=Uruguay; 14=Venezuela; 15=Mexico; 16=Belize; 17=Costa Rica; 18=El Salvador; 19=Guatemala; 20=Honduras; 21=Nicaragua; 22=Panama; 23=Bahamas; 24=Barbados; 25=Cuba; 26=Dominican Republic; 27=Haiti; 28=Jamaica; 29=Puerto Rico; 30=Trinidad and Tobago; 31=United Kingdom; 32=Germany; 33=France; 34=Italy; 35=Austria; 36=Belgium; 37=Ireland; 38=Luxembourg; 39=Netherlands; 40=Switzerland; 41=Cyprus; 42=Greece; 43=Malta; 44=Portugal; 45=Spain; 46=Denmark; 47=Finland; 48=Iceland; 49=Norway; 50=Sweden; 51=Australia; 52=New Zealand; 53=Russian Federation; 54=Albania; 55=Bosnia and Herzegovina; 56=Bulgaria; 57=Croatia; 58=Kosovo; 59=Macedonia; 60=Montenegro; 61=Romania; 62=Serbia; 63=Slovenia; 64=Czech Republic; 65=Hungary; 66=Poland; 67=Slovakia Republic; 68=Armenia; 69=Belarus; 70=Estonia; 71=Georgia; 72=Latvia; 73=Lithuania; 74=Moldova; 75=Ukraine; 76=South Africa; 77=Angola; 78=Botswana; 79=Lesotho; 80=Madagascar; 81=Malawi; 82=Mauritius; 83=Mozambique; 84=Namibia; 85=Swaziland; 86=Zambia; 87=Zimbabwe; 88=Benin; 89=Burkina Faso; 90=Cape Verde; 91=Gambia; 92=Ghana; 93=Guinea; 94=Guinea-Bissau; 95=Ivory Coast -Cote d Ivoire; 96=Liberia; 97=Mali; 98=Niger; 99=Nigeria; 100=Senegal; 101=Sierra Leone; 102=Togo; 103=Eritrea; 104=Ethiopia; 105=Kenya; 106=Tanzania; 107=Uganda; 108=Burundi; 109=Cameroon; 110=Central African Republic; 111=Chad; 112=Congo (Brazzaville) ; 113=Congo (Zaire); 114=Equatorial Guinea; 115=Gabon; 116=Rwanda; 117=Algeria; 118=Comoros; 119=Djibouti; 120=Egypt; 121=Libya; 122=Mauritania; 123=Morocco; 124=Somalia; 125=Sudan; 126=Tunisia; 127=Iraq; 128=Israel; 129=Jordan; 130=Lebanon; 131=Palestinian territories (West Bank and Gaza); 132=Syria; 133=Saudi Arabia; 134=Bahrain; 135=Kuwait; 136=Oman; 137=Qatar; 138=United Arab Emirates; 139=Yemen; 140=Turkey; 141=Afghanistan; 142=Iran; 143=Pakistan; 144=Azerbaijan; 145=Kazakhstan; 146=Kyrghstan; 147=Tajikistan; 148=Turkmenistan; 149=Uzbekistan; 150=India; 151=Bangladesh; 152=Bhutan; 153=Burma (Myanmar); 154=Maldives; 155=Nepal; 156=Sri Lanka; 157=Indonesia; 158=Brunei; 159=Cambodia; 160=Laos; 161=Malaysia; 162=Philippines; 163=Singapore; 164=Thailand; 165=Vietnam; 166=China; 167=Japan; 168=Republic of Korea; 169=Fiji; 170=Hong Kong (China) ; 171=Macao (China); 172=Mongolia; 173=Korea, Dem. Rep(North); 174=Papua New Guinea; 175=Solomon Islands; 176=Taiwan (China); 177=Timor-Leste; 178=South Sudan"
+ncountry_code,Numeric, ,"1=Afghanistan  ; 2=Albania   ; 3=Algeria ; 4=Angola ; 5=Argentina  ; 6=Armenia  ; 7=Australia  ; 8=Austria   ; 9=Azerbaijan  ; 10=Bahamas ; 11=Bahrain ; 12=Bangladesh  ; 13=Barbados ; 14=Belarus  ; 15=Belgium  ; 16=Belize ; 16.5=Benelux; 17=Benin ; 18=Bhutan  ; 19=Bolivia  ; 20=Bosnia and Herzegovina   ; 21=Botswana ; 22=Brazil  ; 23=Brunei ; 24=Bulgaria   ; 25=Burkina Faso ; 26=Burma (Myanmar) ; 27=Burundi ; 28=Cambodia ; 29=Cameroon  ; 30=Canada  ; 31=Cape Verde ; 32=Central African Republic ; 33=Chad ; 34=Chile  ; 35=China  ; 36=Colombia  ; 37=Comoros ; 38=Congo (Zaire)  ; 39=Congo ; 40=Costa Rica  ; 41=Croatia   ; 42=Cuba ; 43=Cyprus  ; 44=Czech Republic   ; 45=Denmark   ; 46=Djibouti ; 47=Dominican Republic  ; 48=Ecuador  ; 49=Egypt  ; 50=El Salvador ; 51=Equatorial Guinea ; 52=Eritrea ; 53=Estonia  ; 54=Ethiopia  ; 55=Fiji  ; 56=Finland   ; 57=France   ; 58=Gabon  ; 59=Gambia ; 60=Georgia  ; 61=Germany   ; 62=Ghana  ; 63=Greece   ; 64=Guatemala  ; 65=Guinea ; 66=Guinea-Bissau ; 67=Guyana ; 68=Haiti ; 69=Honduras ; 70=Hong Kong  ; 71=Hungary  ; 72=Iceland   ; 73=India  ; 74=Indonesia  ; 75=Iran ; 76=Iraq  ; 77=Ireland   ; 78=Israel  ; 79=Italy   ; 80=Ivory Coast; 81=Jamaica ; 82=Japan  ; 83=Jordan ; 84=Kazakhstan  ; 85=Kenya  ; 86=North Korea; 87=Republic of Korea ; 88=Kosovo ; 89=Kuwait ; 90=Kyrghstan ; 91=Laos ; 92=Latvia  ; 93=Lebanon ; 94=Lesotho ; 95=Liberia ; 96=Libya ; 97=Lithuania  ; 98=Luxembourg   ; 99=Macao, China  ; 100=Macedonia   ; 101=Madagascar ; 102=Malawi ; 103=Malaysia  ; 104=Maldives  ; 105=Mali ; 106=Malta  ; 107=Mauritania ; 108=Mauritius ; 109=Mexico  ; 110=Moldova   ; 111=Mongolia  ; 112=Montenegro ; 113=Morocco  ; 114=Mozambique ; 115=Namibia ; 116=Nepal  ; 117=Netherlands   ; 118=New Zealand  ; 119=Nicaragua  ; 120=Niger ; 121=Nigeria  ; 122=Norway  ; 123=Oman ; 124=Pakistan   ; 125=Palestinian territories (West Bank and Gaza)  ; 126=Panama  ; 127=Papua New Guinea  ; 128=Paraguay  ; 129=Peru  ; 130=Philippines  ; 131=Poland   ; 132=Portugal   ; 133=Puerto Rico ; 134=Qatar ; 135=Romania   ; 136=Russian Federation  ; 137=Rwanda ; 138=Saudi Arabia ; 139=Senegal  ; 140=Serbia  ; 141=Sierra Leone ; 142=Singapore  ; 143=Slovakia Republic  ; 144=Slovenia  ; 145=Solomon Islands  ; 146=Somalia ; 147=Somaliland. ; 148=South Africa  ; 149=South Sudan ; 150=Spain   ; 151=Sri Lanka  ; 152=Sudan ; 153=Suriname ; 154=Swaziland ; 155=Sweden  ; 156=Switzerland   ; 157=Syria ; 158=Tajikistan  ; 159=Tanzania ; 160=Thailand  ; 161=Timor-Leste ; 162=Togo  ; 163=Trinidad and Tobago ; 164=Tunisia ; 165=Turkey   ; 166=Turkmenistan  ; 167=Uganda  ; 168=Ukraine   ; 169=United Arab Emirates ; 170=United Kingdom   ; 171=United States  ; 172=Uruguay  ; 173=Uzbekistan  ; 174=Venezuela   ; 175=Vietnam  ; 176=Yemen ; 177=Zambia ; 178=Zimbabwe "
+Meta_Zone,Numeric,Meta Zone,1=Euro-America; 2=Afro-Asia
+GP_Zone,Numeric,GP Zone,1=Euro-America; 2=Asia; 3=Africa
+GP_Region_11,Numeric,.,1=North America; 2=Latin America; 3=Western Europe; 4=Eastern Europe; 5=Africa Region; 6=Arab World; 7=West Asia; 8=South Asia; 9=South East Asia; 10=North East Asia; 11=Australasia
+GP_Sub_Region_35,Numeric,GP Sub-Regions (35),"1=North America 1: United States Sub-Region; 2=North America 2: Canada Sub-Region; 3=Latin America 1: South America Sub-Region; 4=Latin America 2: Central America Sub-Region; 5=Latin America 3: Caribbean America Sub-Region; 6=Western Europe 1: Western Sub-Region (including North-West, North Sea and Central-West); 7=Western Europe 2: Southern Sub-Region (including Mediterranean Islands); 8=Western Europe 3: Northern Sub-Region (also referred to as Nordic or Scandinavia); 9=Eastern Europe 1: Russian Sub-Region (including European and Asian Russia); 10=Eastern Europe 2: South Eastern Sub-Region (most of it is also referred to as Balkan countries); 11=Eastern Europe 3: East-Central European Sub-Region; 12=Eastern Europe 4: Baltic and Black Sea Sub-Region (except Moldova); 13=SSAF 1: South and South Central African Sub-Region; 14=SSAF 2: Western African Sub-Region; 15=SSAF 3: East African Sub-Region; 16=SSAF 4: Saharan African Sub-Region; 17=SSAF 5: Central African Sub-Region; 18=MENA 1: North African Sub-Region; 19=MENA 2: Middle Eastern African Sub-Region; 20=MENA 3: Gulf Sub-Region (including Peninsula Yemen); 21=MENA 4: Arabic Speaking East African Sub-Region; 22=West Asia 1: West Asian Sub-Region (Turko-Persian); 23=West Asia 2: Central Asian Sub-Region (also referred to as Inner Asia); 24=South Asia 1: Indian Sub-Region; 25=South Asia 2: Sub-Continental Muslim Sub-Region; 26=South Asia 3: Sub-Continental Buddhist-Hindu Sub-Region; 27=South East Asia 1: Buddhist Majority Sub-Region 1; 28=South East Asia 2: Buddhist Majority Sub-Region 2; 29=South East Asia 3: Muslim Majority Sub-Region; 30=South East Asia 4: Christian Majority Sub-Region; 31=North East Asia 1: Mainland China Sub-Region; 32=North East Asia 2: Non-Mainland China Sub-Region; 33=North East Asia 3: Non-Chinese Sub-Region; 34=Australasia 1: Australia Sub-Region; 35=Australasia 2: New Zealand Sub-Region"
+Civilization,Numeric,Civilization,1=Atheist; 2=Buddhist; 3=Christian; 4=Hindu; 5=Local; 6=Muslim; 7=Small
+Christian_Sub_Civ,Numeric,Christian Sub-Civ Geo,1=Western European Christians; 2=Eatern European Christians; 3=Afro Christians; 4=Muslim Majority Asian Christians; 5=Indic Christians; 6=Sinic Christians; 7=Asia Pacific Christians; 8=Australasia Christians
+Muslim_Sub_Civ,Numeric,Muslim Sub-Civ Geo,1=Arab Muslims; 2=Turko-Persian Muslims; 3=Indic Muslims; 4=Malay Muslims; 5=Non-Malay Muslims; 6=Sinic Muslims; 7=Afro Muslims; 8=Euro-American Muslims
+Hindu_Sub_Civ,Numeric,Hindu Sub-Civ Geo,1=Afro-Asian Hindus; 2=Euro-American Hindus
+Buddhist_Sub_Civ,Numeric,Buddhist Sub-Civ Geo,1=Sinic Buddhists; 2=Non-Sinic Asian Buddhists; 3=Afro-Buddhists; 4=Euro-American Buddhists
+Atheist_Sub_Civ,Numeric,Atheist Sub-Civ Geo,1=North American Atheists; 2=Latin American Atheists; 3=Western European Atheists; 4=Eastern European Atheists; 5=Afro Atheists; 6=Muslim Majority Asia Atheists; 7=Christian Majority Asia Atheists; 8=Sinic Asia Atheists; 9=Australasia Atheists; 10=Hindu-Buddhist Asia Atheists
+Local_Sub_Civ,Numeric,Local Sub-Civ Geo,1=North American Local Civilization; 2=Latin American Local Civilization; 3=European Local Civilization; 4=SSAF Local Civilization; 5=Muslim Majority Local Civilization; 6=South Asia Local Civilization (other than muslim majority); 7=North East Asia Local Civilization; 8=Australasian Local Civilization
+Small_Sub_Civ,Numeric,Small Sub-Civ Geo,1=North American Small Civilization; 2=Latin American Small Civilization; 3=European Small Civilization; 4=SSAF Small Civilization; 5=Muslim Majority Small Civilization; 6=South Asia Small Civilization (other than muslim majority); 7=North East Asia Small Civilization; 8=Australasian Small Civilization
+EU,Numeric,EU,1=EU; 2=Other
+G20_Countries,Numeric,.,1=United States of America; 2=Canada; 3=Germany; 4=France; 5=United Kingdom; 6=Italy; 7=Japan; 8=Argentina; 9=Republic of Korea; 10=Turkey; 11=Australia; 12=China; 13=India; 14=Russian Federation; 15=Brazil; 16=Saudi Arabia; 17=South Africa; 18=Indonesia; 19=Mexico
+G20,Numeric,.,1=G20; 2=Other
+G7_Countries,Numeric,.,1=United States of America; 2=Canada; 3=Germany; 4=France; 5=United Kingdom; 6=Italy; 7=Japan
+G7,Numeric,G7,1=G7; 2=Other
+G7_All,Numeric,G8 Countries,
+D8,Numeric,D8,1=D8; 2=Other
+OECD,Numeric,OECD,1=OECD; 2=Other
+OPEC,Numeric,OPEC,1=OPEC; 2=Other
+IEA,Numeric,IEA,1=IEA; 2=Other
+Bric_Countries,Numeric,.,1=Brazil; 2=Russian Federation; 3=India; 4=China
+bric_All,Numeric,BRIC,
+BRICS,Numeric,BRICS,1=BRICS; 2=Other
+NATO,Numeric,NATO,1=NATO; 2=Other
+OIC,Numeric,OIC,1=OIC; 2=Other
+Tier,Numeric,Top Tier Countries,1=Tier # 1 (Original G7 + EU Europe); 2=Tier # 2 (G20 excluding G7); 3=Tier # 3 (Other countries)
+Income,Numeric,Income Category,"2=Low-Lower-Middle Income Economies (less to $4,255); 3=Upper-Middle-Income Economies ($4,256 to $13,205); 4=High-Income Economies ($13,205 or more)"
+ap,Numeric,,1=Base
+ap1,Numeric,,1=Global average
+n_D2,Numeric,D2. Age Group.,1=Under 34; 2=35 - 54; 3=55+; 9=DK/NR
+n_D4,Numeric,D4. Education: Highest attained,1=Low; 2=Medium; 3=High; 9=DK/NR
+Religion_D6,Numeric,D6. Do you consider yourself:,1=Christian; 2=Muslim; 3=Hindu; 4=All other Religions; 5=No Religion; 9=DK/NR
+filter_Q1,Numeric,,
+filter_Q2,Numeric,,
+filter_Q3_1,Numeric,,
+n_Q3_1,Numeric,Net Harm Score (No Harm - Strong / Minor Harm),
+filter_Q3_2,Numeric,,
+n_Q3_2,Numeric,Net Harm Score (No Harm - Strong / Minor Harm),
+filter_Q3_3,Numeric,,
+n_Q3_3,Numeric,Net Harm Score (No Harm - Strong / Minor Harm),
+filter_Q4,Numeric,,
+filter_Q5,Numeric,,
+filter_Q6,Numeric,,
+n_Q6,Numeric,Net Agreement Score,
+filter_Q7,Numeric,,
+n_Q7,Numeric,Net Satisfaction Score,
+filter_Q8_1,Numeric,,
+n_Q8_1,Numeric,Net Satisfaction Score,
+filter_Q8_2,Numeric,,
+n_Q8_2,Numeric,Net Satisfaction Score,
+filter_Q8_3,Numeric,,
+n_Q8_3,Numeric,Net Satisfaction Score,
+filter_Q8_4,Numeric,,
+n_Q8_4,Numeric,Net Satisfaction Score,
+filter_Q8_5,Numeric,,
+n_Q8_5,Numeric,Net Satisfaction Score,
+filter_Q8_6,Numeric,,
+n_Q8_6,Numeric,Net Satisfaction Score,
+filter_Q8_7,Numeric,,
+n_Q8_7,Numeric,Net Satisfaction Score,
+filter_Q8_8,Numeric,,
+n_Q8_8,Numeric,Net Satisfaction Score,
+filter_Q8_9,Numeric,,
+n_Q8_9,Numeric,Net Satisfaction Score,
+filter_Q9,Numeric,,
+n_Q9,Numeric,Net Expectation Score,
+filter_Q10_1,Numeric,,
+filter_Q10_2,Numeric,,
+filter_Q10_3,Numeric,,
+filter_Q11,Numeric,,
+filter_Q12,Numeric,,
+filter_Q13,Numeric,,
+filter_Q14,Numeric,,
